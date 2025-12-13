@@ -1,4 +1,12 @@
-# Ventas_globales_videojuegos
-Procesé +1,600 registros para encontrar patrones de éxito según región y género
+# Análisis de Ventas Globales de Videojuegos
 
-• Diseñé dashboards con visualizaciones adaptadas a mercados oriental y occidental. Logros: Recomendación de campañas diferenciadas por región; detección de géneros con mayor retorno en cada mercado. 
+Identificar patrones que determinen si un juego tiene éxito o no. Esto te permitirá detectar proyectos prometedores y planificar campañas publicitarias.
+Una tienda virtual de video juegos requiere del analisis 
+
+Herramientas utilizadas: Python, Pandas, Matplotlib y Seaborn
+
+Dataset simulado
+
+Resultados: Diseñé dashboards con visualizaciones adaptadas a mercados oriental y occidental. 
+
+Logros: Recomendación de campañas diferenciadas por región; detección de géneros con mayor retorno en cada mercado. 
