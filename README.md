@@ -35,7 +35,8 @@ Ventas_globales_videojuegos/
 ├── Analisis Vts Gobales de Videojuegos.ipynb # Notebook principal
 ├── README.md # Documentación
 ├── *.png # Gráficos exportados
-└── data/ (opcional) # Carpeta para datasets si la agregas
+└── data/
+   └── games.csv
 
 ---
 
